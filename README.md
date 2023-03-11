@@ -11,7 +11,7 @@ python main.py
 # Outputs
 | CASE 1 | CASE 2| CASE 3|
 | -------------------------------------------| -------------------------------------------| ------------------------------|
-| <video src='./assets/case1.mov' width=180> | <video src='./assets/case2.mov' width=180> |<video src='./assets/case2.mov' width=180>|
+| <video src='./assets/case1.mp4' width=180></video> | <video src='./assets/case2.mp4' width=180></video> |<video src='./assets/case2.mp4' width=180></video>|
 
 ### Requirements
 ```
