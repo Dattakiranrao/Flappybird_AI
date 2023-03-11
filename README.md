@@ -1,7 +1,7 @@
 # Flappy Bird AI
 A Bird Playing And Learning The Flappy Bird Game On Its Own Using NEAT-PYTHON\
 Algorithm:[NEAT (NeuroEvolution of Augmenting Topologies)](https://www.nltk.org)\
-Graphics are designed in Pygame\
+Graphics are designed in Pygame
 
 ## Available Scripts
 In the project directory, you can run:
@@ -9,7 +9,7 @@ In the project directory, you can run:
 python main.py
 
 ## Outputs
-Please check out the link for [DEMO](https://photos.app.goo.gl/fHwoHaABGjdLVdar6)
+Please check out the link for [DEMO Cases](https://photos.app.goo.gl/fHwoHaABGjdLVdar6)
 
 ## Requirements
 ```
